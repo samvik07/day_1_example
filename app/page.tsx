@@ -1,4 +1,4 @@
-import Email_Signup from "@/components/ui/Email_Signup";
+import Email_Signup from "@/components/Email_Signup";
 
 export default function Home() {
   return (
